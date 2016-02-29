@@ -6,9 +6,6 @@
  *
  */
 
-var validate = require('validate.js')
-
-
 import {dataStoreManager} from './dataStoreManager'
 import {generateUUID} from '../utils/generateUUID'
 import {properties} from '../utils/properties'
