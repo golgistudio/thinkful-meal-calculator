@@ -4,7 +4,6 @@
 
   * [Table of contents](#table-of-contents)
   * [Overview](#overview)
-  * [Getting Started](#getting-started)
   * [Running the application](#running-the-application)
 
 ### Overview
