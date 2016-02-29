@@ -1,0 +1,91 @@
+{
+  "taxPercentage": "7.8",
+  "tipPercentage" : "15",
+  "dishes": [
+    {
+      "name": "hummus",
+      "description": "organic garbanzo beans, tahini, extra virgin olive oil",
+      "category": "startesr",
+      "price": "8"
+    },
+    {
+      "name": "shorabah",
+      "description": "cumin lentil soup",
+      "category": "starters",
+      "price": "5"
+    },
+    {
+      "name": "rihan",
+      "description": "grilled eggplant, tomatoes, almond-basil",
+      "category": "starters",
+      "price": "9"
+    },
+    {
+      "name": "freekeh",
+      "description": "earthy grain",
+      "category": "sides",
+      "price": "4"
+    },
+    {
+      "name": "basmati rice",
+      "description": "basmati rice",
+      "category": "sides",
+      "price": "4"
+    },
+    {
+      "name": "Seasoned French Fries",
+      "description": "french fries with seasoning",
+      "category": "sides",
+      "price": "4"
+    },
+    {
+      "name": "Mashwi",
+      "description": "marinated, grilled seabass, prawns, lemon, cumin, seasonal vegetables",
+      "category": "entrees",
+      "price": "26"
+    },
+    {
+      "name": "M'Shakaleh",
+      "description": "layersof mushrooms, grilled tomatoes, eggplant, cauliflower, tomato-yogurt",
+      "category": "entrees",
+      "price": "16"
+    },
+    {
+      "name": "M'Sakhan",
+      "description": "bonelss chicken, caramelized onions, almonds, sumac, wrapped in tanour crust, saffron-yogurt",
+      "category": "entrees",
+      "price": "18"
+    },
+    {
+      "name": "Mango Yogurt Laban",
+      "description": "creamy yogurt drink with mango",
+      "category": "beverages",
+      "price": "4"
+    },
+    {
+      "name": "Mint tea",
+      "description": "hot tea made with fresh mint leaves",
+      "category": "beverages",
+      "price": "2.5"
+    },
+    {
+      "name": "Pellegrino",
+      "description": "bottled water",
+      "category": "beverages",
+      "price": "3"
+    },
+    {
+      "name": "Baklava",
+      "description": "Walnuts or pistachios layered with honey and filo dough",
+      "category": "desserts",
+      "price": "12"
+    },
+    {
+      "name": "Sfouf",
+      "description": "Light almond cake with pine nuts",
+      "category": "desserts",
+      "price": "10"
+    }
+
+  ]
+}

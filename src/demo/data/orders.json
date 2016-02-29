@@ -1,0 +1,114 @@
+[
+  {
+    "command": "createOrder",
+    "data": {
+      "tableNumber": "1",
+      "numDiners": "3"
+    }
+  },
+
+  {
+    "command": "createOrder",
+    "data": {
+      "tableNumber": "2",
+      "numDiners": "2"
+    }
+  },
+
+  {
+    "command": "addToOrder",
+    "data": {
+      "tableNumber": "1",
+      "diners": [
+        {
+          "dinerID": "1",
+          "dishes":[
+            {
+              "name": "hummus"
+            },
+            {
+              "name": "Mint tea"
+            }
+          ]
+        },
+        {
+          "dinerID": "2",
+          "dishes":[
+            {
+              "name": "hummus"
+            },
+            {
+              "name": "Pellegrino"
+            }
+          ]
+        },
+        {
+          "dinerID": "3",
+          "dishes":[
+            {
+              "name": "rihan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "command": "addToOrder",
+    "data": {
+      "tableNumber": "2",
+      "diners": [
+        {
+          "dinerID": "1",
+          "dishes":[
+            {
+              "name": "shorabah"
+            },
+            {
+              "name": "Mint tea"
+            },
+            {
+              "name": "basmati rice"
+            },
+            {
+              "name": "M'Sakhan"
+            }
+          ]
+        },
+        {
+          "dinerID": "2",
+          "dishes":[
+            {
+              "name": "hummus"
+            },
+            {
+              "name": "Pellegrino"
+            },
+            {
+              "name": "Mashwi"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "command": "addToOrder",
+    "data": {
+      "tableNumber": "2",
+      "diners": [
+        {
+          "dinerID": "1",
+          "dishes":[
+            {
+              "name": "Baklava"
+            },
+            {
+              "name": "Mango Yogurt Laban"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

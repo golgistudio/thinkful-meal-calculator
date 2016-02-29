@@ -1,0 +1,26 @@
+{
+  "name": "thinkful-meal-calculator",
+  "version": "0.0.1",
+  "description": "Simple command line app to generate a bill for a meal",
+  "main": "meal_calculator.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golgistudio/thinkful-meal-calculator.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "golgistudio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/golgistudio/thinkful-meal-calculator/issues"
+  },
+  "homepage": "https://github.com/golgistudio/thinkful-meal-calculator#readme",
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0"
+  }
+}
